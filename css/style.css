@@ -13,8 +13,6 @@ h1{
     color: #FFFFFF;
     width: 696px;
     height: 120px;
-    font-weight: 900;
-    font-size: 44px;
     line-height: 1.36;
 }
 h2{
@@ -24,20 +22,11 @@ h2{
     line-height: 1.16;
 }
 h3{
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 1.2;
-}
-h4{
-    width: 129px;
-    height: 19px;
-    font-weight: 500;
-    font-size: 16px;
     line-height: 1.18;
+    letter-spacing: 0.03em;
 }
-h5{
+p{
     color: #757575;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.56;
 }
@@ -92,12 +81,8 @@ h5{
     width: 216px;
     height: 50px;
 }
-.first__block{
+.oll__block{
     background-color:#F5F5F5;
-    width: 1600px;
-}
-.second__block{
-    background-color: #F5F4FA;
     width: 1600px;
 }
 /* футер */
@@ -115,7 +100,6 @@ h5{
     color: #FFFFFF;
 }
 .m__t__style__down{
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
