@@ -127,6 +127,11 @@ p{
     border-radius: 4px;
     height: 38px;
     padding: 6px 22px;
+    align-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6px;
+    letter-spacing: 0.03em;
 }
 .active__button{
     background: #2196F3;
